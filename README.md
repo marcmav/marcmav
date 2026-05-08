@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=marcmav&style=flat-square&color=green&label=Profile+Views&base=1000)
+![Profile Views](https://komarev.com/ghpvc/?username=marcmav&style=flat-square&color=lightgrey&label=Profile+Views&base=1000)
 
 ### Hi there :wave:
 
