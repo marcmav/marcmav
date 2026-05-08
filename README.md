@@ -4,7 +4,11 @@
 
 I'm Marciano Mavungo, a security engineer specializing in penetration testing.
 
-#### Things about me:
+Skills: Threat Detection, Network Vulnerabilities, Privacy and Data Confidentiality.
+
+Currently learning: Web Pentesting and C.
+
+#### Other things about me:
 - I use arch btw
 - I can't exit nvim
 - Maidenless Tarnished
