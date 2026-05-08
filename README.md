@@ -1,5 +1,5 @@
 
-![profile views](https://visitor-badge.laobi.icu/badge?page_id=marcmav.marcmav)
+![profile views](https://visitor-badge.laobi.icu/badge?page_id=marcmav.marcmav&left_text=profile%20views)
 
 ### Hi there <img src='./assets/wave.svg' width='24' />
 
