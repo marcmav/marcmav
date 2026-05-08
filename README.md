@@ -1,4 +1,3 @@
-<h2 align="center">👋 Hello! I'm Marciano.</h2>
 
 <br clear="both">
 
@@ -7,6 +6,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marcmav.marcmav&left_text=views"  />
 
 </div>
+
+<h2 align="center">👋 Hello! I'm Marciano.</h2>
 
 ###
 
