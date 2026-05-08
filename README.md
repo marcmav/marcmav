@@ -1,5 +1,5 @@
 
-<h2 align="center">👋 Hello! I'm Marciano.</h2>
+<h2 align="center">👋 Hi, I'm Marciano.</h2>
 
 <div align="left">
 
