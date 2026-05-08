@@ -26,5 +26,3 @@ find me here -> [https://marcmav.dev/](https://marcmav.dev/)
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-
-###
