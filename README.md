@@ -4,9 +4,7 @@
 
 I'm Marciano Mavungo, a security engineer specializing in penetration testing.
 
-Skills: Threat Detection, Network Vulnerabilities, Privacy and Data Confidentiality.
-
-Currently learning: Web Pentesting and C.
+Find me here -> [https://marcmav.dev](https://marcmav.dev)
 
 #### Other things about me:
 - I use arch btw
@@ -14,8 +12,6 @@ Currently learning: Web Pentesting and C.
 - Maidenless Tarnished
 
 When I'm not hacking, you'll find me ricing my arch setup, tinkering with my homelab or building side projects.
-
-Find me here -> [https://marcmav.dev](https://marcmav.dev)
 
 ###
 
