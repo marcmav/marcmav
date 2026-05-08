@@ -1,13 +1,10 @@
 
+<h2 align="center">👋 Hello! I'm Marciano.</h2>
+
 <br clear="both">
 
-<div align="left">
+## Hello, 
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=marcmav.marcmav&left_text=views"  />
-
-</div>
-
-<h2 align="center">👋 Hello! I'm Marciano.</h2>
 
 ###
 
@@ -32,5 +29,12 @@
   <img src="https://streak-stats.demolab.com?user=marcmav&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcmav&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=true" height="150" alt="activity-graph graph"  />
+
+</div>
+
+
+<div align="left">
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=marcmav.marcmav&left_text=views"  />
 
 </div>
