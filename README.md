@@ -10,9 +10,7 @@
 
 <br clear="both">
 
-<p align="left">hey, i'm marciano mavungo, a security engineer specializing in penetration testing. currently a pisciner at 42.</p>
-
-<p align="left">prev <a href="https://www.42luanda.com/">42 Luanda.</a> </p>
+<p align="left">hey, i'm Marciano Mavungo, a security engineer specializing in penetration testing. currently a pisciner at 42.</p>
 
 <p align="left">when i'm not coding, you'll find me ricing my arch setup, tinkering with my homelab, or building side projects.</p>
 
