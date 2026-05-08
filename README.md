@@ -1,10 +1,13 @@
 
 <h2 align="center">👋 Hello! I'm Marciano.</h2>
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
-## Hello, 
+<div align="left">
 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=marcmav.marcmav&left_text=views"  />
+
+</div>
 
 ###
 
@@ -32,9 +35,3 @@
 
 </div>
 
-
-<div align="left">
-
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=marcmav.marcmav&left_text=views"  />
-
-</div>
