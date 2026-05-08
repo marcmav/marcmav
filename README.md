@@ -5,7 +5,7 @@
 I'm Marciano Mavungo, an aspiring security engineer specializing in penetration testing.
 
 #### Things about me:
-- i use arch btw <img src='./assets/archlinux.svg' alt='arch linux logo' width=20>
+- i use arch btw <img src='./assets/original.svg' width=20>
 - i can't exit nvim
 - maidenless tarnished
 
