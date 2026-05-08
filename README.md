@@ -13,7 +13,7 @@ Currently learning: Web Pentesting and C.
 - I can't exit nvim
 - Maidenless Tarnished
 
-When I'm not coding, you'll find me ricing my arch setup, tinkering with my homelab or building side projects.
+When I'm not hacking, you'll find me ricing my arch setup, tinkering with my homelab or building side projects.
 
 Find me here -> [https://marcmav.dev](https://marcmav.dev)
 
