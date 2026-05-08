@@ -11,7 +11,6 @@ I'm Marciano Mavungo, an aspiring security engineer focused in penetration testi
 
 <br clear="both">
 
-<p align="left">find me here -> <a href="https://marcmav.dev/">https://marcmav.dev/</a></p>
 find me here -> [https://marcmav.dev/](https://marcmav.dev/)
 
 ###
