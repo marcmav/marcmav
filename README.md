@@ -2,8 +2,9 @@
 <div align="left">
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marcmav.marcmav&left_text=views"  />
-
 </div>
+
+![profile views](https://visitor-badge.laobi.icu/badge?page_id=marcmav.marcmav&left_text=views)
 
 <br clear="both">
 
