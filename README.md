@@ -5,13 +5,10 @@
 
 </div>
 
+<br clear="both">
+
 
 <img src='./assets/wave.svg' width='24' /> hey, I'm Marciano
-
-
-###
-
-<br clear="both">
 
 <p align="left">an aspiring security engineer focused in penetration testing. currently completing the 42 piscine.</p>
 
