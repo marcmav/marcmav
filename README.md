@@ -1,7 +1,7 @@
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=marcmav.marcmav&left_text=Profile%20Views)
 
-### Hi there <img src='./assets/wave.svg' width='24' />
+### Hi there 👋
 
 I'm Marciano
 
