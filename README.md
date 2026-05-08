@@ -1,13 +1,15 @@
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=marcmav.marcmav&left_text=Profile%20Views)
 
-#### Hi there :wave:
+### Hi there :wave:
 
 I'm Marciano Mavungo, an aspiring security engineer specializing in penetration testing.
 
-##### Things about me:
-- I use arch btw
-- I can't exit nvim
-- Maidenless Tarnished
+<details>
+  <summary>####Things about me:</summary>
+  - I use arch btw
+  - I can't exit nvim
+  - Maidenless Tarnished
+</details>
 
 When i'm not coding, you'll find me ricing my arch setup, tinkering with my homelab or building side projects.
 
