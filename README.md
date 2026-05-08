@@ -8,7 +8,9 @@
 <br clear="both">
 
 
-<img src='./assets/wave.svg' width='24' /> hey, I'm Marciano
+### Hi there <img src='./assets/wave.svg' width='24' />
+
+I'm Marciano
 
 <p align="left">an aspiring security engineer focused in penetration testing. currently completing the 42 piscine.</p>
 
