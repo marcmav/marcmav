@@ -5,7 +5,7 @@
 
 I'm Marciano
 
-<p align="left">an aspiring security engineer focused in penetration testing. currently completing the 42 piscine.</p>
+an aspiring security engineer focused in penetration testing. currently completing the 42 piscine.
 
 <p align="left">when i'm not coding, you'll find me ricing my arch setup, tinkering with my homelab or building side projects.</p>
 
