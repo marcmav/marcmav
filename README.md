@@ -4,12 +4,10 @@
 
 I'm Marciano Mavungo, an aspiring security engineer specializing in penetration testing.
 
-<details>
-  <summary>Things about me:</summary>
-  * I use arch btw
-  * I can't exit nvim
-  * Maidenless Tarnished
-</details>
+#### Things about me:
+- i use arch btw
+- i can't exit nvim
+- maidenless tarnished
 
 When i'm not coding, you'll find me ricing my arch setup, tinkering with my homelab or building side projects.
 
