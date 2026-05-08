@@ -12,7 +12,7 @@
 
 <p align="left">hey, i'm Marciano Mavungo, an aspiring security engineer focused in penetration testing. currently completing the 42 piscine.</p>
 
-<p align="left">when i'm not coding, you'll find me ricing my arch setup, tinkering with my homelab, or building side projects.</p>
+<p align="left">when i'm not coding, you'll find me ricing my arch setup, tinkering with my homelab or building side projects.</p>
 
 ###
 
