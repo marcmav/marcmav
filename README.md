@@ -8,7 +8,7 @@ Currently completing the 42 piscine.
 
 When i'm not coding, you'll find me ricing my arch setup, tinkering with my homelab or building side projects.
 
-find me here -> [https://marcmav.dev](https://marcmav.dev)
+Find me here -> [https://marcmav.dev](https://marcmav.dev)
 
 ###
 
