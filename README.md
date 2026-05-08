@@ -1,19 +1,19 @@
 
-<h2 align="center">👋 Hi, I'm Marciano.</h2>
-
-<img src='./assets/wave.svg' width='24' /> Hi,
-
 <div align="left">
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marcmav.marcmav&left_text=views"  />
 
 </div>
 
+
+<img src='./assets/wave.svg' width='24' /> hey, I'm Marciano
+
+
 ###
 
 <br clear="both">
 
-<p align="left">hey, i'm Marciano Mavungo, an aspiring security engineer focused in penetration testing. currently completing the 42 piscine.</p>
+<p align="left">an aspiring security engineer focused in penetration testing. currently completing the 42 piscine.</p>
 
 <p align="left">when i'm not coding, you'll find me ricing my arch setup, tinkering with my homelab or building side projects.</p>
 
