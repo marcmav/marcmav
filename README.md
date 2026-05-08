@@ -7,11 +7,7 @@ I'm Marciano Mavungo, an aspiring security engineer focused in penetration testi
 
 When i'm not coding, you'll find me ricing my arch setup, tinkering with my homelab or building side projects.
 
-###
-
-<br clear="both">
-
-find me here -> [https://marcmav.dev/](https://marcmav.dev/)
+find me here -> [https://marcmav.dev](https://marcmav.dev)
 
 ###
 
