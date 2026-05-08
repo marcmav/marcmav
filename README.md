@@ -12,6 +12,7 @@ I'm Marciano Mavungo, an aspiring security engineer focused in penetration testi
 <br clear="both">
 
 <p align="left">find me here -> <a href="https://marcmav.dev/">https://marcmav.dev/</a></p>
+find me here -> [https://marcmav.dev/](https://marcmav.dev/)
 
 ###
 
@@ -26,3 +27,5 @@ I'm Marciano Mavungo, an aspiring security engineer focused in penetration testi
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+
+###
