@@ -1,7 +1,7 @@
 
 <h2 align="center">👋 Hi, I'm Marciano.</h2>
 
-<img src='./public/wave.svg'/>
+<img src='./public/wave.svg' width='24' /> Hi, I'm Marciano
 
 <div align="left">
 
