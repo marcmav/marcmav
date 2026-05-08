@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<p align="left">hey, i'm ekaksh janweja, a software engineer crafting mobile experiences at startups. currently building the consumer side of <a href="https://digitaldomi.com/">digitaldomi</a> as founding mobile engineer.</p>
+<p align="left">hey, i'm marciano mavungo, a security engineer specializing in penetration testing. currently a pisciner at 42.</p>
 
-<p align="left">prev <a href="https://www.getmerlin.in/">merlin ai.</a> </p>
+<p align="left">prev <a href="https://www.42luanda.com/">42 Luanda.</a> </p>
 
 <p align="left">when i'm not coding, you'll find me ricing my arch setup, tinkering with my homelab, or building side projects.</p>
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<p align="left">find me here -> <a href="https://www.stormej.me">https://www.stormej.me</a></p>
+<p align="left">find me here -> <a href="https://marcmav.dev/">https://marcmav.dev/</a></p>
 
 ###
 
