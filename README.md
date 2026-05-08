@@ -1,6 +1,8 @@
 
 <h2 align="center">👋 Hi, I'm Marciano.</h2>
 
+<img src='./public/wave.svg'/>
+
 <div align="left">
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marcmav.marcmav&left_text=views"  />
