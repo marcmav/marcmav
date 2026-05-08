@@ -4,7 +4,7 @@
 
 I'm Marciano Mavungo, a security engineer specializing in penetration testing.
 
-Find me here -> [marcmav.dev](https://marcmav.dev)
+Find me here -> [https://marcmav.dev](https://marcmav.dev)
 
 #### Other things about me:
 - I use arch btw
