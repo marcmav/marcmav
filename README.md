@@ -1,6 +1,4 @@
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=marcmav.marcmav&left_text=Profile%20Views)
-
-![Profile Views](https://komarev.com/ghpvc/?username=marcmav&style=flat-square&color=blue&left_text=Profile%20Views)
+![Profile Views](https://komarev.com/ghpvc/?username=marcmav&style=for-the-badgex&color=lightgrey&label=Profile+Views&base=1000)
 
 ### Hi there :wave:
 
