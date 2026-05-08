@@ -1,7 +1,7 @@
 
 <div align="left">
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=marcmav.marcmav&left_text=views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=marcmav.marcmav&left_text=profile views"  />
 
 </div>
 
