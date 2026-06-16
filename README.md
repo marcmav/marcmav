@@ -2,11 +2,13 @@
 
 ### Hi there :wave:
 
-I'm Marciano Mavungo, a:
+I'm Marciano Mavungo.
+
+42 Cadet.
 
 Network | Cybersecurity Engineer.
 
-Find me here -> [https://marcmav.dev](https://marcmav.dev)
+Find me here -> [https://marcmav.me](https://marcmav.dev)
 
 #### Other things about me:
 - I use arch btw
