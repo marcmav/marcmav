@@ -2,9 +2,7 @@
 
 ### Hi there :wave:
 
-I'm Marciano Mavungo, a:
-
-Network | Cybersecurity Engineer.
+I'm Marciano Mavungo, a: Network | Cybersecurity Engineer.
 
 Find me here -> [https://marcmav.dev](https://marcmav.dev)
 
