@@ -4,11 +4,11 @@
 
 I'm Marciano Mavungo.
 
-42 Cadet.
+42 School Cadet.
 
 Network | Cybersecurity Engineer.
 
-Find me here -> [https://marcmav.me](https://marcmav.dev)
+Find me here -> [https://marcmav.dev](https://marcmav.dev)
 
 #### Other things about me:
 - I use arch btw
