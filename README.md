@@ -6,7 +6,7 @@ I'm Marciano Mavungo.
 
 42 School Cadet.
 
-Information Technology Engineer at ISPTEC.
+Information Technology Engineering student at ISPTEC.
 
 Network | Cybersecurity Engineer.
 
