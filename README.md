@@ -6,6 +6,8 @@ I'm Marciano Mavungo.
 
 42 School Cadet.
 
+Information Technology Engineer at ISPTEC.
+
 Network | Cybersecurity Engineer.
 
 Find me here -> [https://marcmav.dev](https://marcmav.dev)
