@@ -2,7 +2,9 @@
 
 ### Hi there :wave:
 
-I'm Marciano Mavungo, a security engineer specializing in penetration testing.
+I'm Marciano Mavungo, a network and security engineer.
+
+Network | Cybersecurity Engineer.
 
 Find me here -> [https://marcmav.dev](https://marcmav.dev)
 
