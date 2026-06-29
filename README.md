@@ -2,7 +2,11 @@
 
 ### Hi there :wave:
 
-I'm Marciano Mavungo, a network and security engineer.
+I'm Marciano Mavungo.
+
+42 School Cadet.
+
+Network | Security Engineer.
 
 Find me here -> [https://marcmav.dev](https://marcmav.dev)
 
