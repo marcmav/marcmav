@@ -4,7 +4,7 @@
 
 I'm Marciano Mavungo.
 
-Cadet at 42 Luanda
+Cadet at 42 Luanda.
 
 Find me here -> [https://marcmav.dev](https://marcmav.dev)
 
