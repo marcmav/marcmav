@@ -6,11 +6,8 @@ I'm Marciano Mavungo.
 
 Systems Programmer · Open-Source Contributor · Linux Enthusiast · 42 Luanda Student.
 
-I'm an active open-source contributor who enjoys building secure, reliable software and continuously learning low-level computer systems. 
-I'm currently a student at 42 Luanda, where I'm building a strong foundation in computer science. Outside of the curriculum, I contribute 
-to open-source projects and spend a lot of time working with Linux.
-
-I enjoy understanding computer systems. My current focus is Linux, systems programming in C and open-source contributions.
+I'm currently a student at 42 Luanda, where I'm building a strong foundation in computer science. Outside of the curriculum, I'm an 
+active open-source contributor who enjoys builiding secure, reliable software and continuously learning low-level computer systems.
 
 Find me here -> [https://marcmav.dev](https://marcmav.dev)
 
@@ -19,7 +16,7 @@ Find me here -> [https://marcmav.dev](https://marcmav.dev)
 - I can't exit nvim
 - Maidenless Tarnished
 
-When I'm not hacking, you'll find me ricing my Arch setup, tinkering with my homelab or building side projects.
+When I'm not geeking, you'll find me ricing my Arch setup, tinkering with my homelab or building side projects.
 
 ###
 
