@@ -4,15 +4,13 @@
 
 Systems Programmer · Open-Source Contributor · Linux Enthusiast · 42 Luanda Student.
 
-Active open-source contributor who enjoys building secure, reliable software and continuously learning low-level computer systems.
-
-I'm currently a cadet at 42 Luanda, where I'm building a strong foundation in computer science through project-based learning. 
-Outside of the curriculum, I contribute to open-source projects and spend a lot of time working with Linux. Recently I've been focusing on 
-systems programming in C while exploring networking and cybersecurity.
-
-Find me here -> [https://marcmav.dev](https://marcmav.dev)
+I'm an active open-source contributor who enjoys building secure, reliable software and continuously learning low-level computer systems. 
+I'm currently a student at 42 Luanda, where I'm building a strong foundation in computer science, outside of the curriculum, I contribute 
+to open-source projects and spend a lot of time working with Linux. Recently I've been focusing on systems programming in C.
 
 I enjoy understanding computer systems from the firmware up to the network. My current focus is Linux, systems programming in C, networking fundamentals, and security engineering through hands-on projects and open-source contributions.
+
+Find me here -> [https://marcmav.dev](https://marcmav.dev)
 
 #### Other things about me:
 - I use arch btw
