@@ -16,7 +16,7 @@ Find me here -> [https://marcmav.dev](https://marcmav.dev)
 - I can't exit nvim
 - Maidenless Tarnished
 
-When I'm not geeking, you'll find me ricing my Arch setup, tinkering with my homelab or building side projects.
+When I'm not geeking out, you'll usually find me ricing Arch, tinkering with my homelab, or building side projects.
 
 ###
 
