@@ -1,5 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=marcmav&style=flat-square&color=lightgrey&label=Profile+Views&base=1300)
-
 ### Hi there :wave:
 
 I'm Marciano Mavungo.
