@@ -1,14 +1,16 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=marcmav&style=flat-square&color=lightgrey&label=Profile+Views&base=1300)
 
-### Hi there, I'm Marciano Mavungo :wave:
+### Hi there :wave:
+
+I'm Marciano Mavungo.
 
 Systems Programmer · Open-Source Contributor · Linux Enthusiast · 42 Luanda Student.
 
 I'm an active open-source contributor who enjoys building secure, reliable software and continuously learning low-level computer systems. 
-I'm currently a student at 42 Luanda, where I'm building a strong foundation in computer science, outside of the curriculum, I contribute 
-to open-source projects and spend a lot of time working with Linux. Recently I've been focusing on systems programming in C.
+I'm currently a student at 42 Luanda, where I'm building a strong foundation in computer science. Outside of the curriculum, I contribute 
+to open-source projects and spend a lot of time working with Linux.
 
-I enjoy understanding computer systems from the firmware up to the network. My current focus is Linux, systems programming in C, networking fundamentals, and security engineering through hands-on projects and open-source contributions.
+I enjoy understanding computer systems. My current focus is Linux, systems programming in C and open-source contributions.
 
 Find me here -> [https://marcmav.dev](https://marcmav.dev)
 
