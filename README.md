@@ -2,9 +2,9 @@
 
 ### Hi there :wave:
 
-I'm Marciano M,
+I'm Marciano Mavungo.
 
-Systems Programmer · Linux Enthusiast · Open Source Contributor · 42 Network Student at 42 Luanda
+Systems Programmer · Open Source Contributor · Linux Enthusiast · 42 Student.
 
 Find me here -> [https://marcmav.dev](https://marcmav.dev)
 
