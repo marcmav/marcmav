@@ -1,8 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=marcmav&style=flat-square&color=lightgrey&label=Profile+Views&base=1300)
 
-### Hi there :wave:
-
-I'm Marciano Mavungo.
+### Hi there Marciano Mavungo :wave:
 
 Systems Programmer · Open Source Contributor · Linux Enthusiast · 42 Student.
 
