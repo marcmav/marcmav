@@ -6,7 +6,7 @@ I'm Marciano Mavungo.
 
 Systems Programmer · Open-Source Contributor · Linux Enthusiast · 42 Luanda Student.
 
-I'm currently a student at 42 Luanda, where I'm building a strong foundation in computer science. Outside the curriculum, I'm an active 
+I'm currently a student at 42 Luanda (Cadet), where I'm building a strong foundation in computer science. Outside the curriculum, I'm an active 
 open-source contributor, I daily-drive linux and enjoy systems programming in C to better understand how computers work beneath the surface.
 
 Find me here -> [https://marcmav.dev](https://marcmav.dev)
